@@ -16,6 +16,6 @@
     "colors": "^1.4.0",
     "commander": "^12.1.0",
     "configstore": "^5.0.1",
-    "inquirer": "^11.1.0"
+    "inquirer": "^8.2.6"
   }
 }
